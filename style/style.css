@@ -26,7 +26,7 @@ body {
     background-color: var(--cor1);
     font-family: var(--fonte-padrao);
     margin: auto;
-    width: auto;
+    width: 100%;
    
 }
 
